@@ -1,16 +1,46 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ostap Oliynyk
+=====================================================================================================================================
 
-<!--
-**Reiket/Reiket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end developer
+-------------------
 
-Here are some ideas to get you started:
+I am a junior frontend developer. My journey started back in school when I became interested in programming, particularly web development. I have been studying web development for over a year now. I am mostly self-taught, taking advantage of free courses, watching YouTube videos, reading articles, and documentation, and practicing a lot. Currently, I live in Kyiv and am studying at KPI, specializing in 'Information Systems and Technologies.' I work hard and remain focused on achieving success!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Kyiv
+* 🖥️  See my portfolio at [My portfolio](http://aa)
+* ✉️  You can contact me at [olinyko2607@gmail.com](mailto:olinyko2607@gmail.com)
+* 🧠  I'm learning React
+
+### Skills
+
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Reiket" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_zofry_07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/Reiket" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Reiket"><img src="https://github-readme-stats.vercel.app/api?username=Reiket&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=000000&bg_color=1c1917&hide_border=true&show_icons=true" alt="Reiket's GitHub stats" /></a>
+
+<a href="https://github.com/Reiket" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reiket&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=000000&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Reiket/react-pizza-shop" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Reiket&repo=react-pizza-shop&title_color=6366f1&text_color=ffffff&icon_color=000000&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Reiket/react-social-networks" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Reiket&repo=react-social-networks&title_color=6366f1&text_color=ffffff&icon_color=000000&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
