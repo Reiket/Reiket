@@ -7,7 +7,7 @@ Front-end developer
 I am a junior frontend developer. My journey started back in school when I became interested in programming, particularly web development. I have been studying web development for over a year now. I am mostly self-taught, taking advantage of free courses, watching YouTube videos, reading articles, and documentation, and practicing a lot. Currently, I live in Kyiv and am studying at KPI, specializing in 'Information Systems and Technologies.' I work hard and remain focused on achieving success!
 
 * 🌍  I'm based in Kyiv
-* 🖥️  See my portfolio at [My portfolio]([http://aa](https://cvdesignr.com/p/669cecaebd605))
+* 🖥️  See my portfolio at [My portfolio](https://cvdesignr.com/p/669cecaebd605)
 * ✉️  You can contact me at [olinyko2607@gmail.com](mailto:olinyko2607@gmail.com)
 * 🧠  I'm learning React
 
