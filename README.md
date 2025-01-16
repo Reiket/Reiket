@@ -1,16 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ostap Oliynyk
 =====================================================================================================================================
 
-Front-end developer
+Front-end (React) developer
 -------------------
 
-I am a junior frontend developer. My journey started back in school when I became interested in programming, particularly web development. I have been studying web development for over a year now. I am mostly self-taught, taking advantage of free courses, watching YouTube videos, reading articles, and documentation, and practicing a lot. Currently, I live in Kyiv and am studying at KPI, specializing in 'Information Systems and Technologies.' I work hard and remain focused on achieving success!
+I am a frontend developer. I have been studying website development for over a year, improving my skills and honing my existing ones. I am putting in a lot of effort to become proficient in various aspects of web development.!
 
 * 🌍  I'm based in Kyiv
 * 🖥️  See my portfolio at [My portfolio](https://cvdesignr.com/p/669cecaebd605)
 * ✉️  You can contact me at [olinyko2607@gmail.com](mailto:olinyko2607@gmail.com)
-* 🧠  I'm learning React
-
+* 
 ### Skills
 
 
